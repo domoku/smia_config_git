@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT FUCK U MOTHER!"
+example.property: "I AM IN THE DEFAULT FUCK U MOTHER FATHER!"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
